@@ -68,3 +68,5 @@
         4. Tr(ABC) = Tr(BCA) = Tr(CAB)
         5. Tr(k x A) = k x Tr(A)
 
+        Program for Trace-of-Matrix.
+
