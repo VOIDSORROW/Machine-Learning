@@ -57,14 +57,14 @@
 
 
 
-Trace of a Matrix Tr(A) :
-    The trace of a square matrix A is the sum of the elements on the main diagonal of the matrix.
-    Tr(A) = a11 + a22 + a33 + ....... + ann
+    Trace of a Matrix Tr(A) :
+        The trace of a square matrix A is the sum of the elements on the main diagonal of the matrix.
+        Tr(A) = a11 + a22 + a33 + ....... + ann
 
-    Properties of Trace:
-    1. Tr(A + B) = Tr(A) + Tr(B)
-    2. Tr(A - B) = Tr(A) - Tr(B)
-    3. Tr(AB) = Tr(BA)
-    4. Tr(ABC) = Tr(BCA) = Tr(CAB)
-    5. Tr(k x A) = k x Tr(A)
+        Properties of Trace:
+        1. Tr(A + B) = Tr(A) + Tr(B)
+        2. Tr(A - B) = Tr(A) - Tr(B)
+        3. Tr(AB) = Tr(BA)
+        4. Tr(ABC) = Tr(BCA) = Tr(CAB)
+        5. Tr(k x A) = k x Tr(A)
 
