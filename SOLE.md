@@ -48,7 +48,8 @@
     5. If the system of linear equations is inconsistent, then it has no solution.
 
     Methods to solve System of Linear Equations:
-    The followinf methods are used to solve the system of linear equations and only applicable for consistent system of linear equations and coefficient matrix has to be non-singular |A| != 0 :
+    The followinf methods are used to solve the system of linear equations and only applicable for 
+    consistent system of linear equations and coefficient matrix has to be non-singular |A| != 0 :
         1. Cramer's Rule.
         2. Matrix Inversion Method.
         3. Gauss Elimination Method (Row-Echelon Form).
@@ -57,16 +58,16 @@
 
 
 
-    Trace of a Matrix Tr(A) :
-        The trace of a square matrix A is the sum of the elements on the main diagonal of the matrix.
-        Tr(A) = a11 + a22 + a33 + ....... + ann
+Trace of a Matrix Tr(A) :\
+    The trace of a square matrix A is the sum of the elements on the main diagonal of the matrix.
+    
+    Tr(A) = a11 + a22 + a33 + ....... + ann.
+    Properties of Trace:
+    1. Tr(A + B) = Tr(A) + Tr(B)
+    2. Tr(A - B) = Tr(A) - Tr(B)
+    3. Tr(AB) = Tr(BA)
+    4. Tr(ABC) = Tr(BCA) = Tr(CAB)
+    5. Tr(k x A) = k x Tr(A)
 
-        Properties of Trace:
-        1. Tr(A + B) = Tr(A) + Tr(B)
-        2. Tr(A - B) = Tr(A) - Tr(B)
-        3. Tr(AB) = Tr(BA)
-        4. Tr(ABC) = Tr(BCA) = Tr(CAB)
-        5. Tr(k x A) = k x Tr(A)
-
-        Program for Trace-of-Matrix.
+- Program for [Tr(A)](Trace-Of-Matrix.py).
 
