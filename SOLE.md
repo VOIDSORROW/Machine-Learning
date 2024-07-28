@@ -110,3 +110,8 @@ Different types of Matrices:
 Inverse of a Matrix (A^(-1)):
    
     Let A[aij] where { A^(-1) } = adj(A) / |A|.
+
+System of Linear equations in one variable (ax = b):
+
+    To find solutions for x:
+    X = A^(-1) * B
